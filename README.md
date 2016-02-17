@@ -42,24 +42,24 @@ Your assignment this week is to demonstrate your ability to use GitHub workflows
 
 2. Clone **YOUR FORK** to the GitHub Desktop app
 
-[Step 2](img/step2.png)
+![Step 2](img/step2.png)
 
 3. Look at the "issue" on GitHub.
 
-[Step 3](img/step3.png)
+![Step 3](img/step3.png)
 
 4. Fix the "issue"
 5. Commit your changes.
 
-[Step 5](img/step5.png)
+![Step 5](img/step5.png)
 
 6. Push your changes to your fork on GitHub.
 
-[Step 6](img/step6.png)
+![Step 6](img/step6.png)
 
 7. Create a pull request for your fixes.
 
-[Step 7](img/step7.pmg)
+![Step 7](img/step7.pmg)
 
 8. In your pull request description, explain how you fixed each issue.
 
