@@ -59,7 +59,7 @@ Your assignment this week is to demonstrate your ability to use GitHub workflows
 
 7. Create a pull request for your fixes.
 
-![Step 7](img/step7.pmg)
+![Step 7](img/step7.png)
 
 8. In your pull request description, explain how you fixed each issue.
 
