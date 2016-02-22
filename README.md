@@ -31,6 +31,7 @@ Your assignment this week is to demonstrate your ability to use GitHub workflows
 ###Resources
 
 - Slides from [class 3](http://ga-students.github.io/FEWD-DC-22/Week_02_Tools/03_tools/index.html).
+- [HTML Validator](https://validator.w3.org)
 
 ---
 
